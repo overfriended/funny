@@ -1,0 +1,10 @@
+name: SilkTouchFeet
+version: 1.0
+description: Silk touch pick up blocks by walking over them..
+api-version: 1.16
+author: Appo
+main: me.rocket.Main
+commands:
+  sf:
+    description: SilkFeet main command.
+    aliases: [silkfeet, feet]
